@@ -1,0 +1,21 @@
+
+.pcolor{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 14px;
+    margin-right: 50%;
+    color: aliceblue;
+    background-color: rgb(115, 111, 111);
+    border-radius: 5px;
+}
+
+h5 {
+    color: orange;
+    font-weight: bold;
+}
